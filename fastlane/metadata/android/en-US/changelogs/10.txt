@@ -1,0 +1,11 @@
+Added
+
+- Multiple soundboard folders
+- Manual change sound's position (sort sounds)
+- App tutorial to teach you how to use the app
+- A way to change app color
+
+Changed
+
+- Add button is hidden on scroll
+ 

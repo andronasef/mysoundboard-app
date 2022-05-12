@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "92446763762",
+    "project_id": "my-soundboard-2fe87",
+    "storage_bucket": "my-soundboard-2fe87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92446763762:android:2e33ea5eaf7c18d40c3e6b",
+        "android_client_info": {
+          "package_name": "com.fanqish.mysoundboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92446763762-apj4fm7f458klejppci25fl4ec7vnod5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_-LSMyMIzon8Nqg0KiL33DjCrw30Ftes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92446763762-apj4fm7f458klejppci25fl4ec7vnod5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

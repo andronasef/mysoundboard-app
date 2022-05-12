@@ -1,0 +1,16 @@
+Added
+
+- Better animation for changing sounds position
+- Added help page to to give you instructions on how to use the app 
+
+Changed
+
+- Spammy sounds are here!
+
+Removed
+
+- 
+
+Fixed 
+
+- Share button wasn't working

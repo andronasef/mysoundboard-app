@@ -1,0 +1,14 @@
+Added
+
+- Settings Page (for just one setting for now)
+- Now you can play multiple sounds at the same time
+- Playing indicator to learn what sound are playing right now
+- Loop option in sound options (long click in any sound)
+
+Changed
+
+- Now you can download multiple sounds form internet instead of one
+
+Removed
+
+- The favourite section to be ready for folders update

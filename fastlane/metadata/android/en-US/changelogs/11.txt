@@ -1,0 +1,9 @@
+Added
+
+- Setting to change grid sounds number
+
+Changed
+
+- Now you can add multipe sounds from sound picker (from your files)
+- Now there is a button to see sound options (long press before)
+- Now you will need to long click on the sound button to change it's position

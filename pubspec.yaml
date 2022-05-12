@@ -1,0 +1,80 @@
+name: mysoundboard
+description: custom soundboard for everyone
+
+publish_to: 'none'
+
+version: 0.4.2+12
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  badges: ^2.0.2
+  file_picker: ^4.4.0
+  firebase_analytics: ^9.1.0
+  firebase_core: ^1.12.0
+  firebase_crashlytics: ^2.5.1
+  flutter:
+    sdk: flutter
+  flutter_colorpicker: ^1.0.3
+  flutter_hooks: ^0.18.2+1
+  flutter_markdown: ^0.6.9
+  fluttericon: ^2.0.0
+  get: ^4.6.1
+  google_fonts: ^2.3.1
+  google_mobile_ads: ^1.1.0
+  hive: ^2.0.5
+  hive_flutter: ^1.1.0
+  in_app_review: ^2.0.4
+  just_audio: ^0.9.20
+  lottie: ^1.2.2
+  onboarding_overlay: ^3.0.0
+  package_info_plus: ^1.4.0
+  path_provider: ^2.0.9
+  rate_my_app: ^1.1.2
+  record: ^3.0.2
+  reorderable_grid_view: ^2.2.2
+  share_plus: ^3.1.0
+  should_review: ^0.2.5
+  upgrader: ^3.13.0
+  url_launcher: ^6.0.20
+
+dependency_overrides:
+  platform: ^3.1.0
+
+dev_dependencies:
+  dapackages: # flutter pub run dapackages:dapackages.dart ./pubspec.yaml
+    null
+  flutter_launcher_icons: # flutter pub run flutter_launcher_icons:main
+    null
+  flutter_native_splash: # flutter pub run flutter_native_splash:create
+    null
+  flutter_test:
+    sdk: flutter
+  lint: null
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/animated/
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: 'icon.png'
+
+flutter_native_splash:
+  color: '#0072FF'
+  # color_dark: '#313131'
+
+  image: splash.png
+  android: true
+  ios: true
+  web: true
+  #android_gravity: center
+  #ios_content_mode: center
+  #web_image_mode: center
+  #fullscreen: true
+#run all
