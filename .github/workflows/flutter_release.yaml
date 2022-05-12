@@ -3,7 +3,7 @@ name: Flutter Release
 on: workflow_dispatch
 
 jobs:
-  releasebeta:
+  buildandrelease:
     runs-on: ubuntu-latest
 
     steps:
