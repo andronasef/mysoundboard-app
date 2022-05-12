@@ -1,6 +1,6 @@
 name: Flutter Apk Build On Push
 
-on: push
+on: [push, workflow_dispatch]
 
 jobs:
   apkbuild:
